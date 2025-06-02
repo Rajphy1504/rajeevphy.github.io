@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   arxiv            : # URL -  "http://arxiv.org/a/gangwar_r_1"
-  googlescholar    : "https://scholar.google.com/citations?user=bidDoW0AAAAJ&hl=en"
+  googlescholar    : #URL - "https://scholar.google.com/citations?user=bidDoW0AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-9507-6654"
   researchgate     : # URL
