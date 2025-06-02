@@ -13,7 +13,7 @@ title                    : "Rajeev's Homepage"
 title_separator          : "-"
 name                     : &name "Dr. Rajeev Gangwar"
 description              : &description "personal description"
-URL                      :  "https://rajphy1504.github.io/rajeevphy.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+URL                      : "https://rajphy1504.github.io/rajeevphy.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Rajphy1504/rajeevphy.github.io"
 
@@ -22,18 +22,18 @@ repository               : "Rajphy1504/rajeevphy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Newphoto.jpg"
+  avatar           : "profile.jpg"
   name             : "Rajeev Gangwar"
   pronouns         : # example: "He/Him"  
   bio              : "Postdoc fellow in Quantum Information Theory"
   location         : "Haifa, Israel"
   employer         : "Technion-Israel Institute of Technology"
-  url             : # URL
+  uri              : # URL
   email            : "raju.gangwar@campus.technion.ac.il" 
 
   # Academic websites
   arxiv            : # URL -  "http://arxiv.org/a/gangwar_r_1"
-  googlescholar    : #URL - "https://scholar.google.com/citations?user=bidDoW0AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=bidDoW0AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-9507-6654"
   researchgate     : # URL
